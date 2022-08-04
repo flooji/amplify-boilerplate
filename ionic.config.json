@@ -1,0 +1,8 @@
+{
+  "name": "amplify-boilerplate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "51ff5771"
+}

@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "amplify-boilerplate",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
