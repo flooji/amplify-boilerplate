@@ -38,6 +38,9 @@ export default function ProfileCardCollection(props) {
           height="auto"
           width="auto"
           margin="10px 10px 10px 10px"
+          imageUrl={item.image}
+          name={item.name}
+          job={item.job}
           key={item.id}
           {...(overrideItems && overrideItems({ item, index }))}
         ></ProfileCard>
