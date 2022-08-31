@@ -8,7 +8,7 @@ The below README holds some extracts and links of the **[AWS Amplify Documentati
 **Concerning AWS Account Creation**: 
 *For the registration, go to [AWS Portal Developer Registration](https://portal.aws.amazon.com/gp/aws/developer/registration). The **first year is free**, then the cost depend on the usage.*
 
-I used **Ionic with React** in this boilerplate project. I checked out React Native as well, but the support for React (and hence Ionic with React) in AWS Amplify seemed to me a bit better.
+I used **Ionic with React** in this boilerplate project. I checked out React Native as well, but the support for ReactJS (and hence Ionic with React) in AWS Amplify seemed to me a bit better.
 
 ### Ionic Framework Installation
 Using Ionic is not a must, but it allows you to create a **native & Progressive Web App (PWA)** in one. To get started with Ionic check out the [**official Ionic website**](https://ionicframework.com/). 
