@@ -1,5 +1,6 @@
 import {IonContent, IonHeader, IonPage, IonTitle, IonToolbar} from '@ionic/react';
 import './Tab1.css';
+import {List} from "../components/List";
 
 
 const Tab1: React.FC = () => {
@@ -9,15 +10,16 @@ const Tab1: React.FC = () => {
     <IonPage>
       <IonHeader>
         <IonToolbar>
-          <IonTitle> Hello you</IonTitle>
+          <IonTitle> Tab 1</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent fullscreen>
         <IonHeader collapse="condense">
           <IonToolbar>
-            <IonTitle size="large">Hello you</IonTitle>
+            <IonTitle size="large">Tab 1</IonTitle>
           </IonToolbar>
         </IonHeader>
+        <List></List>
       </IonContent>
     </IonPage>
   );
