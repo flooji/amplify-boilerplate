@@ -5,10 +5,18 @@ export type AmplifyDependentResourcesAttributes = {
             "GraphQLAPIIdOutput": "string",
             "GraphQLAPIEndpointOutput": "string"
         },
-        "myapi": {
+        "pythonapi": {
             "RootUrl": "string",
             "ApiName": "string",
             "ApiId": "string"
+        }
+    },
+    "function": {
+        "pythonfunction": {
+            "Name": "string",
+            "Arn": "string",
+            "Region": "string",
+            "LambdaExecutionRole": "string"
         }
     }
 }

@@ -5,6 +5,8 @@ The below README holds some extracts and links of the **[AWS Amplify Documentati
 ## Pre-requisites
 * [**Amplify pre-requisites for a React project**](https://docs.amplify.aws/start/getting-started/installation/q/integration/react/#option-1-watch-the-video-guide)
 
+Install AWS Amplify CLI with ```npm install -g @aws-amplify/cli```.
+
 **Concerning AWS Account Creation**: 
 *For the registration, go to [AWS Portal Developer Registration](https://portal.aws.amazon.com/gp/aws/developer/registration). The **first year is free**, then the cost depend on the usage.*
 
